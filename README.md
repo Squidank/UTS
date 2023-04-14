@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+By Fajar Nugraha 1207070041
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
